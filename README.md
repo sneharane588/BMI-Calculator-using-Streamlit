@@ -1,5 +1,7 @@
 # BMI-Calculator-using-Streamlit
 
+[![Streamlit Spp](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/sneharane588/bmi-calculator-using-streamlit/main/bmi_streamlit.py)
+
 <h3>About Streamlit</h3><br/>
 Streamlit is an open-source python library that is useful to create and share data web apps. It is slowly gaining a lot of momentum in the data science community. Because of the ease with which one can develop a data science web app, many developers use it in their daily workflow. The streamlit GitHub repository has more than 14.1k stars and 1.2k forks. Under the hood, it uses React as a frontend framework to render the data on the screen.
 With streamlit, one can build data apps in no time. It seamlessly integrates with other python libraries like NumPy, Pandas, Matplotlib, and many more.
@@ -23,4 +25,4 @@ Body mass index (BMI) is a measure of body fat based on height and weight of a p
 ![](https://img.jagranjosh.com/imported/images/E/GK/what-is-BMI.jpg)
 <br/><br/>
 
-Leave a star ✨ if you liked this basic demo of Streamlit !!
+Leave a star ✨ to this repo if you liked this basic demo of Streamlit !!
